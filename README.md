@@ -37,7 +37,7 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 ## Autor
 
-- [Mansour Lo lo ] (mansourlol440@gmail.com)
+- [Mansour Lo lo ](mansourlol440@gmail.com)
 
 ## Licencia
 
