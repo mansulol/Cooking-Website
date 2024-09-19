@@ -4,7 +4,7 @@ This is the repository for the Cooking Website project inspired by a Dribbble de
 
 https://dribbble.com/shots/22764603-COOKING-WEBSITE
 
-![Interface Img](img/interface.png)
+![Interface Img](./img/interface.png)
 
 ## Description
 
